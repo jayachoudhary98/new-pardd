@@ -26,7 +26,7 @@ const AddUser = () => {
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
   </div>
 <div class=" m-5">
-<button type="submit" class="btn btn-primary">Submit</button>
+<button type="submit" class="btn btn-primary">Submit...</button>
 
 </div>
 </form>
