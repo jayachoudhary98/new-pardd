@@ -9,7 +9,7 @@ const Routess = () => {
   return (
     <div>
         <Routes>
-            <Route path='/home' element={<Home/>}></Route>
+            <Route path='/' element={<Home/>}></Route>
             <Route path='/about' element={<About/>}></Route>
             <Route path='/contact' element={<Contact/>}></Route>
            <Route exact path="/users/add" element={<AddUser/>}></Route>
